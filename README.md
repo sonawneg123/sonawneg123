@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0D1117,100:00B4D8&height=220&section=header&text=Gaurav%20Sonawane&fontSize=48&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Cloud%20AI%20Engineer%20%7C%20AWS%20%26%20DevOps%20%7C%20LLM%20Integration&descAlignY=58&descSize=18" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&text=Gaurav%20Sonawane" width="100%">
 
 <br>
 
