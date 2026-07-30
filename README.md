@@ -186,9 +186,7 @@ graph LR
 
 <img src="https://github-readme-stats.vercel.app/api?username=sonawneg123&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00B4D8&icon_color=00B4D8&text_color=c9d1d9" height="165"/>
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sonawneg123&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00B4D8&text_color=c9d1d9" height="165"/>
-
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=sonawneg123&theme=tokyonight&hide_border=true&background=0D1117&ring=00B4D8&fire=00B4D8&currStreakLabel=00B4D8" height="165"/>
-
+<img src="https://streak-stats.demolab.com?user=sonawneg123&theme=tokyonight&hide_border=true&background=0D1117&ring=00B4D8&fire=00B4D8&currStreakLabel=00B4D8" height="165"/>
 <img src="https://github-readme-trophy.vercel.app/?username=sonawneg123&theme=tokyonight&no-frame=true&column=4&margin-w=10&margin-h=10" />
 
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=sonawneg123&theme=tokyo-night&hide_border=true&bg_color=0D1117&color=00B4D8&line=00B4D8&point=ffffff" width="100%"/>
